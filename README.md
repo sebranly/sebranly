@@ -19,7 +19,7 @@
 <br />
 <br />
 
-<div>🖥️ I also created two desktop-only websites. I consider them as my personal hackathons because of the tight deadline:</div>
+<div>🖥️ I also created a few desktop-only websites. I consider them as my personal hackathons because of the tight deadlines:</div>
 <ul>
 <li>🎨 <a href="https://sebranly.github.io/coolr">Coolr</a>, a puzzle game I made for a birthday in which you have to mix colors</li>
 <li>👩‍🏫 a website to learn more about <a href="https://fbpellas.github.io">English Pronunciation</a> coded by myself with content from <a href="https://github.com/fbpellas">fbpellas</a> for her thesis</li>
