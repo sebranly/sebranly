@@ -1,7 +1,7 @@
 <h1>✨ sebranly ✨</h1>
 <h3>👨‍💻 Software Engineer and Micro-Entrepreneur 🇫🇷</h3>
 
-<div><img src="https://github-readme-stats.vercel.app/api?username=sebranly&count_private=true&show_icons=true&theme=radical&include_all_commits=true" /><br /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebranly&theme=radical&exclude_repo=tic-tac-toe,react-awesome-query-builder,sebranly-resume&langs_count=4&layout=compact" /></div>
+<div><img src="https://github-readme-stats.vercel.app/api?username=sebranly&count_private=true&show_icons=true&theme=radical&include_all_commits=true" /><br /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebranly&theme=radical&exclude_repo=tic-tac-toe,react-awesome-query-builder&langs_count=10&layout=compact" /></div>
 
 <h3>🚧 Projects</h3>
 
@@ -19,8 +19,11 @@
 <br />
 <br />
 
-<div>🖥️ Also take a look at these two desktop-only quick websites I made. I consider them as my personal hackathons:</div>
+<div>🖥️ I also created two desktop-only websites. I consider them as my personal hackathons because of the tight deadline:</div>
 <ul>
 <li>🎨 <a href="https://sebranly.github.io/coolr">Coolr</a>, a puzzle game I made for a birthday in which you have to mix colors</li>
-<li>👩‍🏫 a website to learn more about <a href="https://fbpellas.github.io">English Pronunciation</a> coded by myself with content from <a href="https://github.com/fbpellas">fbpellas</a></li>
+<li>👩‍🏫 a website to learn more about <a href="https://fbpellas.github.io">English Pronunciation</a> coded by myself with content from <a href="https://github.com/fbpellas">fbpellas</a> for her thesis</li>
+<li>🛒 an <a href="https://sebranly.github.io/sebranly-resume">outdated résumé</a> (2018) about myself, inspired by ebay. Landed a job in the US! 🌎</li>
 </ul>
+
+<h3>🤝 Contact me on <a href="https://www.linkedin.com/in/sebastienbranly/">LinkedIn</a></h3>
