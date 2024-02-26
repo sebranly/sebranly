@@ -1,7 +1,7 @@
 <h1>✨ sebranly ✨</h1>
 <h3>👨‍💻 Software Engineer 🇫🇷</h3>
 
-<div><img src="https://github-readme-stats.vercel.app/api?username=sebranly&count_private=true&show_icons=true&theme=radical&hide=contribs&include_all_commits=true" /><br /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebranly&theme=radical&exclude_repo=tic-tac-toe,react-awesome-query-builder&langs_count=10&layout=compact" /></div>
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebranly&theme=radical&exclude_repo=tic-tac-toe,react-awesome-query-builder&langs_count=10&layout=compact" /></div>
 
 <h3>🎨 Projects</h3>
 
